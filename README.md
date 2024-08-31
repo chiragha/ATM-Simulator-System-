@@ -1,4 +1,5 @@
-# Bank-Management-System
+# ATM-Simulator-System-
+
 
 • Interpreters: Java and Java Database Connectivity(JDBC).
 
