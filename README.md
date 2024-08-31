@@ -6,6 +6,13 @@
 
 • Database: MySQL Workbench.
 
+
+## Run the application using the following command:
+
+```java
+java login
+```
+
 ## Sign-in Page
 
 ![log](https://github.com/user-attachments/assets/ed2e14ba-40ac-4b19-91d1-8217eafc457a)
