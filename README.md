@@ -14,6 +14,33 @@
 java login
 ```
 
+
+## DataBase
+
+create database bankmanagementsystem;
+
+use bankmanagementsystem;
+
+show databases;
+
+create table signup(formno varchar(20),name varchar(20),fname varchar(20),date varchar(20),gender varchar(20),email varchar(30),status varchar(20),address varchar(40),city varchar(20),state varchar(25),pincode varchar(20));
+
+create table signuptwo(formno varchar(20),religion varchar(20),category varchar(20),income varchar(20),education varchar(20),occupation varchar(30),pan varchar(30),aadhar varchar(30),scitizen varchar(20),pin varchar(20),exist varchar(25));
+
+create table signupthree(formno varchar(20),acctype varchar(30),cardnumber varchar(30),pinnumber varchar(30),facility varchar(30));
+create table login(formno varchar(20),cardnumber varchar(30),pinnumber varchar(30));
+
+create table bank(pinnumber varchar(10), date varchar(50), type varchar(20), amount varchar(20));
+show tables;
+
+select * from signup;
+select * from signuptwo;
+select * from signupthree;
+select * from login;
+select * from bank;
+
+
+
 ## Sign-in Page
 
 ![log](https://github.com/user-attachments/assets/ed2e14ba-40ac-4b19-91d1-8217eafc457a)
