@@ -17,7 +17,7 @@ java login
 
 ## DataBase
 
-````
+```java
 create database bankmanagementsystem;
 
 use bankmanagementsystem;
