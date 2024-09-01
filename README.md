@@ -17,6 +17,7 @@ java login
 
 ## DataBase
 
+````
 create database bankmanagementsystem;
 
 use bankmanagementsystem;
@@ -39,7 +40,7 @@ select * from signupthree;
 select * from login;
 select * from bank;
 
-
+````
 
 ## Sign-in Page
 
